@@ -1,6 +1,6 @@
 {
   "id": "ahmedgamal7207/sentiment-analysis-imdb-reviews",
-  "title": "Sentiment Analysis on IMDB Reviews",
+  "title": "sentiment-analysis-imdb-reviews",
   "code_file": "notebooks/main.ipynb",
   "language": "python",
   "kernel_type": "notebook",
