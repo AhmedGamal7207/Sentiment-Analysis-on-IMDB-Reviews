@@ -1,2 +1,3 @@
 def hello():
-    return "Ready to roll 🚀"
+    return "Ready to work"
+
