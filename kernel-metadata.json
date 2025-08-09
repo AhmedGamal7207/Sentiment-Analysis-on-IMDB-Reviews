@@ -1,0 +1,15 @@
+{
+  "id": "ahmedgamal7207/sentiment-analysis-imdb-reviews",
+  "title": "Sentiment Analysis on IMDB Reviews",
+  "code_file": "notebooks/main.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "false",
+  "enable_gpu": "true",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": ["lakshmi25npathi/imdb-dataset-of-50k-movie-reviews"],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}
